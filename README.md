@@ -20,7 +20,7 @@
 * Php cURL support
 * Well Rich Documentation
 
-# Demo : [Check Here for Demo](http://edgemojo.com/tik-tok-videos-downloader-v3/)
+# Demo : [Click Here for Demo](http://edgemojo.com/tik-tok-videos-downloader-v3/)
 
 # Requirements
 * Any Shared/VPS/Cloud/Dedicated Server
