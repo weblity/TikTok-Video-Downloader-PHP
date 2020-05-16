@@ -1,4 +1,5 @@
-# TikTok Video Downloader PHP Script : Download TikTok Videos Without Watermark For Free
+# TikTok Video Downloader PHP Script
+###### Download TikTok Videos Without Watermark For Free
 
 # Features
 * TikTok Video Downloader (without Watermark) + Original Audio Extractor
@@ -18,4 +19,17 @@
 * Ajax Requests
 * Php cURL support
 * Well Rich Documentation
+
 # Demo : [Check Here for Demo](http://edgemojo.com/tik-tok-videos-downloader-v3/)
+
+# Requirements
+* Any Shared/VPS/Cloud/Dedicated Server
+* Code Editing Software (eg: Dreamweaver, Sublime Text or Notepad)
+* Local Server for testing (eg: Wamp Server or Xammp Server)
+
+# Price Only : 5 USD
+
+# Want to buy Contact via Email
+* edgemojo1[@]gmail.com
+
+
