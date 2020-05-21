@@ -2,7 +2,7 @@
 ###### Download TikTok Videos Without Watermark For Free
 
 # Features
-* TikTok Video Downloader (without Watermark) + Original Audio Extractor
+* TikTok Video Downloader (without Watermark)
 * Download Original Video
 * Download without Watermark Video
 * Beautiful Design
