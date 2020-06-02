@@ -22,15 +22,19 @@
 * Well Rich Documentation
 
 # Demo : [Click Here for Demo](http://edgemojo.com/tik-tok-videos-downloader/)
+# Buy Here 10 USD : [Click here to BUY](https://www.fiverr.com/manask/develop-tiktok-video-downloader-php-script)
+
+# IMP : Hence it's digital download zip file,I will send you the code direct to your email id, So there is no refund.Make sure you check the demo before buy.
+
 
 # Requirements
 * Any Shared/VPS/Cloud/Dedicated Server
 * Code Editing Software (eg: Dreamweaver, Sublime Text or Notepad)
 * Local Server for testing (eg: Wamp Server or Xammp Server)
 
-# Price Only : 5 USD
+# Price Only : 10 USD
 
-# Want to buy Contact via Email
+# or Want to buy with Paypal Contact via Email
 * edgemojo1[@]gmail.com
 
 # Screenshots Attched
