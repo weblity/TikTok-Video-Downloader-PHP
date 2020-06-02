@@ -24,7 +24,7 @@
 # Demo : [Click Here for Demo](http://edgemojo.com/tik-tok-videos-downloader/)
 # Buy Here 10 USD : [Click here to BUY](https://www.fiverr.com/manask/develop-tiktok-video-downloader-php-script)
 
-# IMP : Hence it's digital download zip file,I will send you the code direct to your email id, So there is no refund.Make sure you check the demo before buy.
+IMP : Hence it's digital download zip file,I will send you the code direct to your email id, So there is no refund.Make sure you check the demo before buy.
 
 
 # Requirements
