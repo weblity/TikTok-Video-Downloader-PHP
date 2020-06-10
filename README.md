@@ -23,6 +23,10 @@
 
 # Demo : [Click Here for Demo](http://edgemojo.com/tik-tok-videos-downloader/)
 # Buy Here 10 USD : [Click here to BUY](https://www.fiverr.com/manask/develop-tiktok-video-downloader-php-script)
+* or
+# Buy Here 10 USD using Paypal or Credit card : [Click here to BUY](https://www.paypal.me/weblity)
+* Once Your send moleny please send me your email id , i will deliver you the code and instation documentation.
+* If you want i can also install the script on your server for FREE
 
 IMP : Hence it's digital download zip file,I will send you the code direct to your email id, So there is no refund.Make sure you check the demo before buy.
 
